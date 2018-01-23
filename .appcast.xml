@@ -4,7 +4,9 @@
     <link>
       custom appcast xml
     </link>
-    <description/>
+    <description>
+      a informative description for this plugin
+    </description>
     <language>en</language>
     <item>
       <title>0.1.0</title>
