@@ -9,6 +9,11 @@
     </description>
     <language>en</language>
     <item>
+      <title>0.2.0</title>
+      <pubDate>2017-12-11 05:51:02 UTC</pubDate>
+      <enclosure url="https://custom_download_url.com/0.2.0" sparkle:version="0.2.0"/>
+    </item>
+    <item>
       <title>0.1.0</title>
       <pubDate>2017-12-11 05:51:02 UTC</pubDate>
       <enclosure url="https://custom_download_url.com/0.1.0" sparkle:version="0.1.0"/>
